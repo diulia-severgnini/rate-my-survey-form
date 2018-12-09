@@ -1,0 +1,80 @@
+body {
+  background: url("https://i.imgur.com/MJAkxbh.png"); 
+}
+#title {
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+#container {
+  width: 600px;
+  height: auto;
+  background-color: rgba(255, 255, 255, 0.4);
+  position: relative;
+  left: 26%;
+}
+#rating {
+  display: inline!important;
+  margin-top: 15px;
+  font-family: 'Raleway', sans-serif;
+}
+label {
+  padding: 8px 0 8px 0;
+  display: block;
+  font-family: 'Raleway', sans-serif;
+  padding-left: 20px;
+}
+#name {
+  margin-left: 17px;
+  height: 16px;
+  width: 300px;
+}
+#email {
+  height: 16px;
+  width: 300px;
+  margin-left: 20px;
+}
+#number {
+  height: 16px;
+  width: 50px;
+  margin-left: 32px;
+}
+#dropdown {
+  height: 16px;
+  margin-left: 8px;
+}
+#comments {
+  min-height: 100px;
+  min-width: 400px;
+  margin-left: 20px;
+  max-width: 400px;
+  max-height: 100px;
+}
+#text-box-label {
+  margin-left: -20px;
+}
+p {
+  font-family: 'Raleway', sans-serif;
+  padding-left: 20px;
+}
+#submit {
+  font-family: 'Raleway', sans-serif;
+  position: relative;
+  left: 40%;
+  font-size: 16px;
+}
+#submit:hover {
+  font-family: 'Raleway', sans-serif;
+  background-color: #FF9999;
+  cursor: pointer;
+}
+#disclaimer {
+  font-size: 12px;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  font-family: 'Raleway', sans-serif;
+  color: #FF9999;
+  cursor: pointer;
+}
